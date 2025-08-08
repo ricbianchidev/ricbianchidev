@@ -37,3 +37,4 @@ Construyendo: [BIAGGO](https://biaggo.com) 🤩
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ricbianchidev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ricbianchidev)
+[![Gitlab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=twitter&logoColor=white)](https://gitlab.com/ricbianchidev)
